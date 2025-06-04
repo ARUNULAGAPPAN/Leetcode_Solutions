@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
+| [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
