@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0476-number-complement) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
