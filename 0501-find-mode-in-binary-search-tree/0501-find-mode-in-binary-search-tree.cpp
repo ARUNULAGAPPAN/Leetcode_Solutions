@@ -11,36 +11,36 @@
  */
 class Solution {
 public:
- vector<int>ans; int val=INT_MIN; int f=0,maxf=0;
-  void inorder(TreeNode* node)
-  {
-    if(node == nullptr)
-       return;
+    vector<int> ans;
+    int currentVal;
+    int currentCount = 0;
+    int maxCount = 0;
 
-       inorder(node->left);
-         if(val==node->val)
-         {
-            f++;
-         }
-         else
-       {
-        val = node->val;
-        f=1;
-       }
-       
+    void handleValue(int val) {
+        if (val != currentVal) {
+            currentVal = val;
+            currentCount = 0;
+        }
+        currentCount++;
 
-       if(f > maxf)
-       {
-        maxf=f;
-        ans={node->val};
-       }
-       else if(f == maxf)
-       {
-        ans.push_back(node->val);
-       }
-       inorder(node->right);
-  }
+        if (currentCount > maxCount) {
+            maxCount = currentCount;
+            ans = {val};  // new mode
+        } else if (currentCount == maxCount) {
+            ans.push_back(val);  // another mode
+        }
+    }
+
+    void inorder(TreeNode* root) {
+        if (!root) return;
+        inorder(root->left);
+        handleValue(root->val);
+        inorder(root->right);
+    }
+
     vector<int> findMode(TreeNode* root) {
+        if (!root) return {};
+        currentVal = root->val;
         inorder(root);
         return ans;
     }
