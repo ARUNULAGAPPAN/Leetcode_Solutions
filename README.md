@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
