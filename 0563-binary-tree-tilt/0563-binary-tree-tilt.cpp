@@ -11,20 +11,21 @@
  */
 class Solution {
 public:
-     int ans =0;
-    int DFS(TreeNode* node)
+    
+    int DFS(TreeNode* node , int&ans)
      {
         if(!node) return 0;
 
-        int l = DFS(node->left);
-        int r = DFS(node->right);
+        int l = DFS(node->left,ans);
+        int r = DFS(node->right,ans);
         
         ans = ans + abs(l-r); // formula
 
         return l+r+node->val;
      }
     int findTilt(TreeNode* root) {
-        DFS(root);
+        int ans=0;
+        DFS(root, ans);
         return ans;
     }
 };
