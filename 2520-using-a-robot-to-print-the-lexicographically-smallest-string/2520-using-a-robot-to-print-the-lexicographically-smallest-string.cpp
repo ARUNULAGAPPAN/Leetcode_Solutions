@@ -1,7 +1,8 @@
 class Solution {
 public:
     // Helper function to find the lexicographically smallest remaining character
-    char l(vector<int>& freq) {
+    char small(vector<int>& freq) 
+    {
         for (int i = 0; i < 26; i++) {
             if (freq[i]) return 'a' + i;
         }
@@ -23,14 +24,13 @@ public:
             st.push(ch);
             freq[ch - 'a']--;
 
-            // Pop from stack to result if stack top ≤ smallest remaining char
-            while (!st.empty() && st.top() <= l(freq)) {
+         
+            while (!st.empty() && st.top() <= small(freq)) {
                 t += st.top();
                 st.pop();
             }
         }
 
-        // Pop remaining characters
         while (!st.empty()) {
             t += st.top();
             st.pop();
