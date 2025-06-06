@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
