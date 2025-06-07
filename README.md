@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0575-distribute-candies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
