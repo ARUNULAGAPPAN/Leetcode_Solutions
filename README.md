@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
