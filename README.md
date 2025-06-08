@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
