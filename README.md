@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3379-score-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
