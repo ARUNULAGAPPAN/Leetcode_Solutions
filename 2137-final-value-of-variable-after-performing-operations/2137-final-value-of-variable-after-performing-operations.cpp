@@ -5,10 +5,9 @@ public:
         for(int i=0;i<operations.size();i++)
         {
             string w = operations[i];
-            if(w=="++X") x=x+1;
-            else if(w=="X++") x=x+1;
-            else if(w=="--X") x=x-1;
-            else if(w=="X--") x=x-1;
+            if(w=="++X" || w=="X++") x=x+1;
+            else if(w=="--X" ||w=="X--") x=x-1;
+        
         }
         return x;
     }
