@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Breadth-First Search
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
