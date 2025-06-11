@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0507-perfect-number) |
+| [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
