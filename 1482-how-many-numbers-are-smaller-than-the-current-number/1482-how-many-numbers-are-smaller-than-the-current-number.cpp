@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-       int n= nums.size();
+       
        vector<int>ans;
-       int c=0;
+     
         for(int n : nums)
-        {
+        {  int c=0;
             for(int m : nums)
             {
                 if(n>m)
