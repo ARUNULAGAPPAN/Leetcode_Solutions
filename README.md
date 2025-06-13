@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Breadth-First Search
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
