@@ -4,11 +4,11 @@ public:
        int n= nums.size();
        vector<int>ans;
        int c=0;
-        for(int i=0;i<n;i++)
+        for(int n : nums)
         {
-            for(int j=0;j<n;j++)
+            for(int m : nums)
             {
-                if(nums[i]>nums[j])
+                if(n>m)
                 {
                     c++;
                 }
