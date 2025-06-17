@@ -1,40 +1,46 @@
-const int mod=1e9+7;
-class Solution {
+const int MOD = 1000000007;
+
+class Solution 
+{
 public:
-    static inline long long mo(long long x, int exp, int Mod=mod){
-        if (exp==0) return 1;
-        int y=(exp&1)?x:1;
-        return mo(x*x%Mod, exp>>1)*y%Mod;
-    }
-    static inline int modInverse(int a, int b=mod) {
-        int x0 = 1, x1 = 0;
-        int r0 = a, r1 = b;
-        while (r1 != 0) {
-            int q = r0/r1, rr = r1, xx = x1;
-            r1 = r0-q * r1;
-            x1 = x0-q * x1;
-            r0 = rr;
-            x0 = xx;
+//base to the power exp
+long long exponent(long long base, long long exp, long long mod) 
+    {
+        long long result = 1;
+        while (exp > 0) {
+            if (exp % 2 == 1) {
+                result = (result * base) % mod;
+            }
+            base = (base * base) % mod;
+            exp /= 2;
         }
-        if (x0 < 0) x0+= b;
-        return x0;
+        return result;
     }
-    static long long comb(int n, int k){
-        if (n<2*k) return comb(n, n-k);
-        long long denominator=1;
-        for(int i=1; i<=k; i++){
-            denominator*=i;
-            if (denominator>mod) denominator%=mod;
-        }
-        long long ans=modInverse(denominator);
-        for (int i=n; i>=n-k+1; i--){
-            ans*=i;
-            if (ans>mod) ans%=mod;
-        }
-        return ans;
+//fermats little theorem 
+//this states is n is prime, a^n-1 mod p = 1 ; dividing by a -> a^n-2 mod p is equivalent to 1/a mod p
+long long modInverse(long long x, long long mod) 
+    {
+        return exponent(x, mod - 2, mod);
     }
-    static int countGoodArrays(int n, int m, int k) {
-        return m*mo(m-1, n-k-1)%mod*comb(n-1, k)%mod;
-        
+
+
+// combinations function
+long long nCr(int n, int r, vector<long long>& fact) 
+    {
+        return fact[n] * modInverse(fact[r], MOD) % MOD * modInverse(fact[n - r], MOD) % MOD;
+        //we use fermats theorem instead of n!/r!(n-r)! since long long cant hold it sometimes
+    }
+
+int countGoodArrays(int n, int m, int k) 
+    {
+        //computing factorials which are needed
+        vector<long long> fact(n + 1, 1);
+        for (int i = 2; i <= n; ++i) 
+            fact[i] = fact[i - 1] * i % MOD;
+    
+        long long result = nCr(n - 1, k, fact);//for an array of size n, there are n-1 adjacent positions, we chooose k of n-1 positions.
+        result = result * m % MOD; //each of the k pairs can have m values
+        result = result * exponent(m - 1, n - k - 1, MOD) % MOD; // there are (n - 1) - k adjacent remainng, each of these have m-1 allowed values (we compare with previous adjacency)
+        return result;
     }
 };
