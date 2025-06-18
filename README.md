@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
