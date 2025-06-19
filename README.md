@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 ## Brainteaser
