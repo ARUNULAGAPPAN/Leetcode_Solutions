@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0476-number-complement) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
