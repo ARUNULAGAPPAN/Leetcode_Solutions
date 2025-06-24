@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1086-divisor-game) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
