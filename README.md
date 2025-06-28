@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0461-hamming-distance) |
