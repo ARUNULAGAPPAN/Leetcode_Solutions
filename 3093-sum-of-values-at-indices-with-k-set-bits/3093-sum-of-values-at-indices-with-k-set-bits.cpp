@@ -8,4 +8,14 @@ public:
         }
         return sum;
     }
+    /* Function __builtin_popcount(i)
+    {
+        int c=0,copy=i;
+        while(copy)
+        {
+            c = c + (copy&1);
+            copy = copy >> 1;
+        }
+        return c;
+    }*/
 };
