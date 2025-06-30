@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
