@@ -1,10 +1,12 @@
 class Solution {
 public:
     int maxAdjacentDistance(vector<int>& nums) {
-        int maxi = 0;
-        for (int i = 0 ; i < nums.size() - 1 ; i++)
-            maxi = max(maxi , abs(nums[i + 1] - nums[i]));
-        maxi = max(maxi , abs(nums[nums.size() - 1] - nums[0]));
-        return maxi;
+       int n = nums.size();
+       int maxdiff = abs(nums[0] - nums[n-1]);
+       for(int i=1;i<n;i++)
+       {
+        maxdiff = max( maxdiff , abs(nums[i]-nums[i-1]));
+       }
+       return maxdiff;
     }
 };
