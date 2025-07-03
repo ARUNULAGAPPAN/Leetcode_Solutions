@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
+| [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
+| [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
