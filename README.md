@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0056-merge-intervals) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
