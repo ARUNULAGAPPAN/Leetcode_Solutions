@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0133-clone-graph) |
+| [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
