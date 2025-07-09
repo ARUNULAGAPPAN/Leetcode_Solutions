@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
