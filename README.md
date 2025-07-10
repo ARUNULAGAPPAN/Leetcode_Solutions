@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -725,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Prefix Sum
