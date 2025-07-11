@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0753-open-the-lock) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Dynamic Programming
 |  |
