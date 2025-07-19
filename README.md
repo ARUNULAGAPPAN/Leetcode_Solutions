@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Dynamic Programming
 |  |
@@ -944,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Brainteaser
 |  |
 | ------- |
