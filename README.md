@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Design
 |  |
 | ------- |
