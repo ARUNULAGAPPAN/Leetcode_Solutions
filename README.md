@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
