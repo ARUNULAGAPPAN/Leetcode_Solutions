@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
