@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
 | ------- |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
