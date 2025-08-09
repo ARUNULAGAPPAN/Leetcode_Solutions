@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0461-hamming-distance) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
