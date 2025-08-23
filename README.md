@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String Matching
