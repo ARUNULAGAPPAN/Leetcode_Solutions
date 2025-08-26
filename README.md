@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
