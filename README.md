@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
@@ -1103,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
