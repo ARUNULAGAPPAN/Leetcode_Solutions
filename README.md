@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
