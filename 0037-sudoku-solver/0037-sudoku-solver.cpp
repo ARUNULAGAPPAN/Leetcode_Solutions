@@ -26,10 +26,7 @@ private:
         for (int i = 0; i < 9; i++) {
             if (board[row][i] == ch) return false;
             if (board[i][col] == ch) return false;
- // (row / 3) and (col / 3) = rdentifies which 3×3 block the cell belongs to.
- // 3 * (row / 3) and 3 * (col / 3) Gets the starting row/column of that 3×3 block 
-            // + i/3 for the exact (row) position within the 3×3 block
-            // + i%3 for the exact (col) position within the 3×3 block
+
             int subRow = 3 * (row / 3) + i / 3;
             int subCol = 3 * (col / 3) + i % 3;
             if (board[subRow][subCol] == ch) return false;
