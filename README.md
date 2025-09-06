@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0065-valid-number) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0134-gas-station) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
