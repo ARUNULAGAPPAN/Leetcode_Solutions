@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
