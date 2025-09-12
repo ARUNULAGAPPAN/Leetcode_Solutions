@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1185,10 +1187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
