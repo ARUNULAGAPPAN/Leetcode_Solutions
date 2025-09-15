@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
