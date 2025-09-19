@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
