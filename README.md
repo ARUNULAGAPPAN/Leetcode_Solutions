@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0322-coin-change) |
