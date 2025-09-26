@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3678-design-task-manager](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1339,4 +1343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
