@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1020,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
