@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
