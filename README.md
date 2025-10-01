@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
