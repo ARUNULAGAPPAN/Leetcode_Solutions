@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -989,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
