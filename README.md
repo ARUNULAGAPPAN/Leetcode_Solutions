@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1580-shuffle-the-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
