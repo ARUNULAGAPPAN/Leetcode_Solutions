@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1054-complement-of-base-10-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
