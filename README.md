@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
