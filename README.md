@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0394-decode-string) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -990,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1309,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
@@ -1444,4 +1449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
