@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Greedy
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bucket Sort
 |  |
 | ------- |
