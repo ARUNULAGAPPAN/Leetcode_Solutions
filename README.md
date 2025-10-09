@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
+| [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
