@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Binary Tree
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1161,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
@@ -1189,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
