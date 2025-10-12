@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
+| [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
