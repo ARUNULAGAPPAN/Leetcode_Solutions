@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
@@ -1358,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -1516,4 +1520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
