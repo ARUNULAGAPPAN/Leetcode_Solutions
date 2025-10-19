@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
@@ -1486,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 ## Binary Indexed Tree
