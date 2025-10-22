@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Binary Tree
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
@@ -1369,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
