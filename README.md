@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -1479,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Quickselect
 |  |
