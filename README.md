@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1117,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -1365,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
