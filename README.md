@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1311,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1376,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
