@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0482-license-key-formatting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
+| [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
