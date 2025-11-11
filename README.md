@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0466-count-the-repetitions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0826-soup-servings) |
