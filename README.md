@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
+| [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
