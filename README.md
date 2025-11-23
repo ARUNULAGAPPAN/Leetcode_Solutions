@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1480-running-sum-of-1d-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1517,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
