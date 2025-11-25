@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1086-divisor-game) |
