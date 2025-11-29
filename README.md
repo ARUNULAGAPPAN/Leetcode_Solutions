@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
