@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
