@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0826-soup-servings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0866-prime-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0866-prime-palindrome) |
 | [0867-new-21-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -1590,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0866-prime-palindrome) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
