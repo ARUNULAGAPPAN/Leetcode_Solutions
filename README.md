@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3675-minimum-operations-to-transform-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3707-equal-score-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1590,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3707-equal-score-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
