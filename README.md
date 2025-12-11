@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0733-flood-fill) |
@@ -1792,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1802,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-design-task-manager) |
