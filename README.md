@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1168-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
