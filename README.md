@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0546-remove-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
+| [0546-remove-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0546-remove-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
