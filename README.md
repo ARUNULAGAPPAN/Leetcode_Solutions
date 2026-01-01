@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
