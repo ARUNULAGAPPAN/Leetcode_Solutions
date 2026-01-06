@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
