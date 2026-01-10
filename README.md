@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0753-open-the-lock) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
