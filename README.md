@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3453-separate-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
