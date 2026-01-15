@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1538,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
