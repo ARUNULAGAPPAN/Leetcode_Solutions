@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1805,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
