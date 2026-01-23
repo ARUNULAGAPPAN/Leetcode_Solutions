@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3583-count-special-triplets) |
@@ -1640,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1970,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
@@ -2022,4 +2028,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
