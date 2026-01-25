@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
@@ -1594,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
