@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
+| [3146-permutation-difference-between-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3146-permutation-difference-between-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
