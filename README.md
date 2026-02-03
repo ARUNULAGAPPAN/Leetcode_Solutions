@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3637-trionic-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
