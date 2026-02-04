@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -1597,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1733,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
