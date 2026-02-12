@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3692-majority-frequency-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-split-and-merge-array-transformation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3690-split-and-merge-array-transformation) |
 | [3692-majority-frequency-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -1685,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3692-majority-frequency-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
