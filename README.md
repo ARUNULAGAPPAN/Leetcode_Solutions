@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
