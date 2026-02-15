@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -1702,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3692-majority-frequency-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -1920,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
