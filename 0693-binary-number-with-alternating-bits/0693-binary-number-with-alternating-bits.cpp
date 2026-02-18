@@ -1,8 +1,7 @@
 class Solution {
 public:
-    bool hasAlternatingBits(uint32_t n) {
-        uint32_t v = n + (n>>1);
-        return (v & v+1)==0;
-        
+    bool hasAlternatingBits(int n) {
+        unsigned int x = n ^ (n >> 1);
+        return (x & (x + 1)) == 0;
     }
 };
