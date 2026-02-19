@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1786,6 +1787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
