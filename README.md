@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
@@ -1620,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
@@ -1991,6 +1993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
