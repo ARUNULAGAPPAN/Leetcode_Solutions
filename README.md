@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-decode-xored-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
