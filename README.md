@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1838,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
 |  |
@@ -2153,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Iterator
 |  |
 | ------- |
