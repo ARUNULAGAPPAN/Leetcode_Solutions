@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3340-check-balanced-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3396-valid-word) |
