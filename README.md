@@ -1153,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
+| [1009-complement-of-base-10-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1054-complement-of-base-10-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
