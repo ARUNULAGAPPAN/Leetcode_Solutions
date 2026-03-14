@@ -2222,6 +2222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0610-triangle-judgement](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0619-biggest-single-number) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
