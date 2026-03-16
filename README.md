@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -1274,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1737,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1859-sorting-the-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1836,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1893,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -1988,6 +1993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
