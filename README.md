@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0401-binary-watch) |
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
