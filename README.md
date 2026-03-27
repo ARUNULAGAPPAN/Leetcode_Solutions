@@ -1316,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2556-convert-the-temperature) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2591-distribute-money-to-maximum-children) |
@@ -2044,6 +2045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
