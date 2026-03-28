@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2887-sort-vowels-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2591-distribute-money-to-maximum-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1688,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -1947,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -2347,6 +2352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
