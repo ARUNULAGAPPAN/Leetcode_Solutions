@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -1294,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -2042,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
