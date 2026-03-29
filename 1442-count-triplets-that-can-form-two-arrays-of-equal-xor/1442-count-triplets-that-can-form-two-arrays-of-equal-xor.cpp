@@ -1,21 +1,18 @@
 class Solution {
 public:
     int countTriplets(vector<int>& arr) {
-        int count = 0;
-        for (int start = 0; start < arr.size() - 1; ++start) {
-            int xorA = 0;
-            for (int mid = start + 1; mid < arr.size(); ++mid) {
-                xorA ^= arr[mid - 1];
-                int xorB = 0;
-                for (int end = mid; end < arr.size(); ++end) {
-                    xorB ^= arr[end];
-                    if (xorA == xorB) {
-                        ++count;
-                    }
-                }
-            }
-        }
+        int xr_val = 0;
+        map<int,int> count;
+        map<int,int> total;
+        count[0] = 1;
+        int ans = 0;
 
-        return count;
+        for(int i = 0; i<arr.size(); i++){
+            xr_val ^= arr[i];
+            ans += count[xr_val] * i - total[xr_val];
+            count[xr_val]++;
+            total[xr_val] += i+1;
+        }
+        return ans;
     }
 };
