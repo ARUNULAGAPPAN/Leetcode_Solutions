@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1987,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
