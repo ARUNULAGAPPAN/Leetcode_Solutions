@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
