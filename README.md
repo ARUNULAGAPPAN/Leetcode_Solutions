@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
