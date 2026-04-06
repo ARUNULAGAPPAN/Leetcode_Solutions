@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
