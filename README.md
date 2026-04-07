@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
@@ -1180,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3803-count-residue-prefixes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3803-count-residue-prefixes) |
