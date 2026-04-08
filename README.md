@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
