@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1044-find-common-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1464,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -1523,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1650,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
