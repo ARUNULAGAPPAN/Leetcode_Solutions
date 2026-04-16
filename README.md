@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3488-closest-equal-element-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3488-closest-equal-element-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1611,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
