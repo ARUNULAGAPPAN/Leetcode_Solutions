@@ -800,7 +800,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0753-open-the-lock) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
-| [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
@@ -851,7 +850,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
-| [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1536,7 +1534,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
-| [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
@@ -2428,7 +2425,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
