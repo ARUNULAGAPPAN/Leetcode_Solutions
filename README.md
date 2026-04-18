@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2235-capitalize-the-title](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2235-capitalize-the-title) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -2053,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
