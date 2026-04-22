@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2418-sort-the-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -2118,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Prefix Sum
 | Problem Name | Difficulty |
