@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2325-decode-the-message](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2418-sort-the-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -2187,6 +2189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
