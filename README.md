@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0479-largest-palindrome-product](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0479-largest-palindrome-product) |
@@ -1749,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
