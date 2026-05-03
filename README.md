@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
@@ -2113,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
