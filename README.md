@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0056-merge-intervals) |
@@ -1325,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -2040,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
