@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3660-jump-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3668-restore-finishing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -1835,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
