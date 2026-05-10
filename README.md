@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2751-robot-collisions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -1833,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
