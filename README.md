@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1313-decompress-run-length-encoded-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
