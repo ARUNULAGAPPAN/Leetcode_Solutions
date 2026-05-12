@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1656-design-an-ordered-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -1927,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1630-arithmetic-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
