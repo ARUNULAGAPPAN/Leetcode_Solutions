@@ -1421,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1622-fancy-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
