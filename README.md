@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -1958,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2751-robot-collisions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
