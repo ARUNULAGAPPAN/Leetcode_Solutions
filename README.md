@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1633,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
