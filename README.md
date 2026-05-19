@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2615-sum-of-distances](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
