@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1460,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1973,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
