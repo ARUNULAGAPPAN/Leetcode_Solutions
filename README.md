@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2716-minimize-string-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2716-minimize-string-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
