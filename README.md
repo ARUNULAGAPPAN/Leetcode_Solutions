@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3248-snake-in-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1494,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3099-harshad-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
