@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0777-toeplitz-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0792-binary-search) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -2135,6 +2137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0777-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
