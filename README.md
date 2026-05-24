@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -2314,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
