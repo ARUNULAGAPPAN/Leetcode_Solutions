@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1051-height-checker/) | Easy |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1977,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1051-height-checker/) | Easy |
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -2061,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1051-height-checker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1051-height-checker/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
