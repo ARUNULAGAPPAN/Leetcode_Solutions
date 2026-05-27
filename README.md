@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
