@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
+| [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -2618,6 +2620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
