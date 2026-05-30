@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -1757,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
@@ -2536,6 +2538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2543,6 +2546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
 | [1622-fancy-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3454-separate-squares-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
