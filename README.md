@@ -1066,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1955,6 +1957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Memoization
