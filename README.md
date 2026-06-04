@@ -1913,6 +1913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1387-sort-integers-by-the-power-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -1968,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2023,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1387-sort-integers-by-the-power-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
