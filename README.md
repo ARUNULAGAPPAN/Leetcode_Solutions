@@ -1566,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
@@ -2097,6 +2098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3531-count-covered-buildings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
