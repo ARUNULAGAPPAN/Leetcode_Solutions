@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -1211,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0500-keyboard-row) |
@@ -2012,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
