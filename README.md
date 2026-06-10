@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0661-image-smoother](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -2027,6 +2030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
@@ -2182,6 +2186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2318,6 +2323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0867-new-21-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
