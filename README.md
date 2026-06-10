@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3690-split-and-merge-array-transformation) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3697-compute-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3675-minimum-operations-to-transform-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -2208,6 +2210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -2612,6 +2615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3454-separate-squares-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
