@@ -1576,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3560-find-minimum-log-transportation-cost](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3567-convert-date-to-binary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1672,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1741,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
