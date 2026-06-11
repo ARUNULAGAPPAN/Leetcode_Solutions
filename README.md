@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [0978-valid-mountain-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
@@ -2042,6 +2045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0958-sort-array-by-parity-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
