@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2169-simple-bank-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -2107,6 +2108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
