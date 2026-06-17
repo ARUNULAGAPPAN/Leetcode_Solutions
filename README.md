@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3617-find-the-original-typed-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
