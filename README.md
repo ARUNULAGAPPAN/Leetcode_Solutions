@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -1118,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
@@ -2041,6 +2043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -2543,6 +2546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -2563,6 +2567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
