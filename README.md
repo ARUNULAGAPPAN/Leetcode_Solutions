@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -2101,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
