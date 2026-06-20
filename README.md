@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1651-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
