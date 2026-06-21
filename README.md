@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -2111,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1859-sorting-the-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1859-sorting-the-sentence) |
@@ -2200,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
