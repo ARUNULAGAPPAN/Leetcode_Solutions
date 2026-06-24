@@ -2026,6 +2026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -2482,6 +2483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3707-equal-score-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
 | [3714-longest-balanced-substring-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
