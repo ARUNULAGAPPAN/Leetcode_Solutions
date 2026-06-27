@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
