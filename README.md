@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -2155,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -2730,6 +2733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
+| [2363-merge-similar-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
