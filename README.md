@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
@@ -2103,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0761-special-binary-string) |
+| [0791-custom-sort-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
