@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -2415,6 +2417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
