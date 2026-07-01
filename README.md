@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -1830,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -2090,6 +2092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
