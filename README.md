@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
@@ -1840,6 +1842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -2110,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
