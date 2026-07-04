@@ -973,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1813,6 +1814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -2838,6 +2840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -2850,6 +2853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
