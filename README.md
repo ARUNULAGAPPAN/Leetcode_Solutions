@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
+| [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -2148,6 +2149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1340-jump-game-v/) | Hard |
