@@ -1128,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0479-largest-palindrome-product) |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1656-count-good-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1925-count-square-sum-triples) |
