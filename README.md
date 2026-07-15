@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -2192,6 +2195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1387-sort-integers-by-the-power-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2823,6 +2827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0699-falling-squares) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2363-merge-similar-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
