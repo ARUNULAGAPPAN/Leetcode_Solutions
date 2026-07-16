@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4058-compute-alternating-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4058-compute-alternating-sum) |
 ## Array
 | Problem Name | Difficulty |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 | Problem Name | Difficulty |
@@ -2286,6 +2290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3769-sort-integers-by-binary-reflection](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2634,6 +2639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
