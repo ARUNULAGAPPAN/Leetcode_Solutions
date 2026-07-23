@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1505-create-target-array-in-the-given-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -2475,6 +2478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
