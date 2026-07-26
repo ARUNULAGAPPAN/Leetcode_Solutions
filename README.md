@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0127-word-ladder) |
@@ -2072,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0097-interleaving-string) |
