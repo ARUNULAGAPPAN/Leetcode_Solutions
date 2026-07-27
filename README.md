@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
@@ -1527,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -2563,6 +2566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0816-design-hashset) |
@@ -2575,6 +2579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -2960,6 +2965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Iterator
