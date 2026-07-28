@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
