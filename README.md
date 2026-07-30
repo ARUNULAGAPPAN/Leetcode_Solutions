@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [0978-valid-mountain-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -2500,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
