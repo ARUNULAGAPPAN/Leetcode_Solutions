@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1629,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0479-largest-palindrome-product](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0479-largest-palindrome-product) |
+| [0486-predict-the-winner](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0507-perfect-number) |
@@ -2111,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0514-freedom-trail](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -2855,6 +2859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1086-divisor-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
