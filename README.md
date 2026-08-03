@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0860-lemonade-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0953-reverse-only-letters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
