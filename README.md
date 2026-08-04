@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -2116,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0322-coin-change) |
