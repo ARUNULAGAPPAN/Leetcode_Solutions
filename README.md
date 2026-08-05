@@ -42,7 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0273-integer-to-english-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
-| [0299-bulls-and-cows](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0336-palindrome-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0336-palindrome-pairs) |
@@ -1354,7 +1353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
-| [0299-bulls-and-cows](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0336-palindrome-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -2400,7 +2398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0274-h-index/) | Medium |
-| [0299-bulls-and-cows](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
