@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3271-hash-divided-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3340-check-balanced-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3396-valid-word) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1762,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -2763,6 +2767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
