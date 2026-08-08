@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2491-smallest-even-multiple](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2491-smallest-even-multiple) |
@@ -2449,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
