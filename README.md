@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3248-snake-in-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3271-hash-divided-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3271-hash-divided-string/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3340-check-balanced-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -2200,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
