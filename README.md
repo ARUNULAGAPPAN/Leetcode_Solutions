@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -1378,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -1665,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0587-erect-the-fence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
@@ -2692,6 +2695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -3100,4 +3104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
