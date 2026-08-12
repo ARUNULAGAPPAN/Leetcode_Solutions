@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2974-minimum-number-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-count-of-interesting-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2667,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
