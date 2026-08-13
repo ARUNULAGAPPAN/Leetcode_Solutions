@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2315-count-asterisks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
