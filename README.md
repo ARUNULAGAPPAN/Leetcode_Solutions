@@ -628,7 +628,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
-| [1817-finding-the-users-active-minutes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -1462,7 +1461,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
-| [1817-finding-the-users-active-minutes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
