@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-replace-all-digits-with-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1816-truncate-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1817-finding-the-users-active-minutes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1829-maximum-xor-for-each-query) |
