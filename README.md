@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1448-maximum-69-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -1621,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-complement-of-base-10-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
