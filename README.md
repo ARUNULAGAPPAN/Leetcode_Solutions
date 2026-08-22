@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0925-long-pressed-name](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1441,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
@@ -2357,6 +2360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0948-sort-an-array) |
