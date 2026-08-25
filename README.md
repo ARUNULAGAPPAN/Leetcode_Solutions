@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3697-compute-decimal-representation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -1594,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
