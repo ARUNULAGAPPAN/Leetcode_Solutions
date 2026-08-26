@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2497,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
