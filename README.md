@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0851-goat-latin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0885-spiral-matrix-iii) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0841-shortest-distance-to-a-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [0881-boats-to-save-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
