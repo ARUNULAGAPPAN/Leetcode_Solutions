@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2029-stone-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2032-two-out-of-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1520,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
+| [2032-two-out-of-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
@@ -1676,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
