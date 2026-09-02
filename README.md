@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1926,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 | Problem Name | Difficulty |
