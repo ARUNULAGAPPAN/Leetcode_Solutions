@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -2403,6 +2406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0561-array-partition) |
