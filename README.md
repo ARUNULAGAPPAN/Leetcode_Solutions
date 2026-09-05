@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
 | [3903-smallest-stable-index-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4058-compute-alternating-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4058-compute-alternating-sum) |
@@ -2909,6 +2910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
