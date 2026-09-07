@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0925-long-pressed-name](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -2297,6 +2298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
