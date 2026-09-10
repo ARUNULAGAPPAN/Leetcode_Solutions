@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3055-maximum-odd-binary-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -2804,6 +2806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -2815,6 +2818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2870,6 +2874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Prefix Sum
@@ -3241,6 +3246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
