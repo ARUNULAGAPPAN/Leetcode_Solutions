@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1390-four-divisors) |
@@ -1399,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -3030,6 +3032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1476-subrectangle-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1603-design-parking-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1622-fancy-sequence/) | Hard |
