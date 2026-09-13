@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0969-pancake-sorting/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
