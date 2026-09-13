@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0831-largest-sum-of-averages) |
+| [0835-image-overlap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0837-most-common-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -2744,6 +2745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0777-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0835-image-overlap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
