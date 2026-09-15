@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2481-strictly-palindromic-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -2373,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
