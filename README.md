@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-occurrences-after-bigram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
