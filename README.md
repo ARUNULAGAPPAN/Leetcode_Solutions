@@ -1869,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -2359,6 +2360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2919,6 +2921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -3147,6 +3150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
