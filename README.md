@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0889-buddy-strings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0925-long-pressed-name](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0929-unique-email-addresses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0942-di-string-match](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0943-find-the-shortest-superstring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0943-find-the-shortest-superstring) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-unique-email-addresses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0932-monotonic-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
@@ -1533,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0940-fruit-into-baskets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
