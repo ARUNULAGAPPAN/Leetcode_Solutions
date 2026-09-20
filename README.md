@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3582-generate-tag-for-video-caption](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3582-generate-tag-for-video-caption) |
