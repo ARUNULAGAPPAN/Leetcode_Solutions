@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1856,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1236-n-th-tribonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
