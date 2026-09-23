@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0204-count-primes) |
