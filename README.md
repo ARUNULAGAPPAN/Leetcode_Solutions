@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
