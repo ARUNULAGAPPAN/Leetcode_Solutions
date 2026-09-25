@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -1556,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -2530,6 +2535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1051-height-checker/) | Easy |
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1096-brace-expansion-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
