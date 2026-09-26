@@ -1255,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -1849,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0679-24-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -2196,6 +2198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
