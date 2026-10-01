@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1633,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -2611,6 +2613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -2715,6 +2718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
