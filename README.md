@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1940,6 +1941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
