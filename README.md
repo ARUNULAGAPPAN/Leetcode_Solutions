@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4058-compute-alternating-sum) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2287,6 +2289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2686,6 +2689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
