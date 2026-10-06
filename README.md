@@ -1622,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1934,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -2723,6 +2725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
