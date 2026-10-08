@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4058-compute-alternating-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4058-compute-alternating-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4058-compute-alternating-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -1753,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
@@ -2697,6 +2700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2767,6 +2771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -2821,6 +2826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3335,6 +3341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
