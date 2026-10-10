@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1607,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -2595,6 +2598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
