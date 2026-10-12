@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0898-transpose-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [0908-smallest-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0929-unique-email-addresses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -1912,6 +1913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0900-reordered-power-of-2](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0900-reordered-power-of-2) |
+| [0908-smallest-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
