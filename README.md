@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2974-minimum-number-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -2299,6 +2302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
