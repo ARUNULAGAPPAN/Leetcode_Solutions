@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1168-duplicate-zeros](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1623,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -2277,6 +2280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -2623,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1387-sort-integers-by-the-power-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
