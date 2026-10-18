@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -1950,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1360-number-of-days-between-two-dates](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1390-four-divisors](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
