@@ -1025,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
