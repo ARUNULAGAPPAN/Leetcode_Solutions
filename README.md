@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -3371,6 +3374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0969-number-of-recent-calls](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
