@@ -958,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3690-split-and-merge-array-transformation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3690-split-and-merge-array-transformation) |
@@ -2264,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -2998,6 +3001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -3532,6 +3536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
