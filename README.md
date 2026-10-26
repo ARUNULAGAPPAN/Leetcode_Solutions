@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1651-shuffle-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1656-design-an-ordered-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -1671,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
