@@ -170,7 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
-| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1686,7 +1685,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
-| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-maximum-erasure-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
@@ -2835,7 +2833,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1777-determine-if-two-strings-are-close](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
-| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
