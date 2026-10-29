@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
@@ -1896,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
@@ -2193,6 +2196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2274,6 +2278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -3297,6 +3302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -3415,6 +3421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3437,6 +3444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
