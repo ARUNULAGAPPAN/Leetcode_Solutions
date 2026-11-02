@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1894-merge-strings-alternately](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1927-sum-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -1703,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -2853,6 +2855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
