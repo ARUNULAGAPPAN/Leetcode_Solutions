@@ -1010,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -2116,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
