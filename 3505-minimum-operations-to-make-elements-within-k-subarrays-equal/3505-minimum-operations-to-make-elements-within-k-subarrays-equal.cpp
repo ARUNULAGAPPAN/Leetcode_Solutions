@@ -18,7 +18,7 @@ public:
 
     long long slide(int out, int in) {
         s.insert(in);
-        if (in < *mid)  // in joins the low half and pushes its largest up
+        if (in < *mid) 
             low += in - *--mid;
         if (out < *mid) {  // out leaves the low half: mid moves down into it
             low += *mid++ - out;
