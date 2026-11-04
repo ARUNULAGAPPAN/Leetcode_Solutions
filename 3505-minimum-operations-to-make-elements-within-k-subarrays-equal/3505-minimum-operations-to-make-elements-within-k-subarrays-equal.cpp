@@ -20,7 +20,7 @@ public:
         s.insert(in);
         if (in < *mid) 
             low += in - *--mid;
-        if (out < *mid) {  // out leaves the low half: mid moves down into it
+        if (out < *mid) {  
             low += *mid++ - out;
             s.erase(s.find(out));
         } else if (out == *mid) {
@@ -42,7 +42,7 @@ public:
         for (int i = x; i < n; ++i)
             cost.push_back(win.slide(nums[i - x], nums[i]));
 
-        vector<long long> best(n + 1);  // best[i]: min ops for the windows placed so far inside nums[0..i)
+        vector<long long> best(n + 1); 
         for (int j = 0; j < k; ++j) {
             vector<long long> layer(n + 1, LLONG_MAX / 2);
             for (int i = x; i <= n; ++i)
