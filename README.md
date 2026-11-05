@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2126-destroying-asteroids](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1722,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2103-rings-and-rods](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -3021,6 +3023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
