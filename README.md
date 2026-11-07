@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1436-destination-city/) | Easy |
+| [1446-consecutive-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1496-path-crossing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1496-path-crossing/) | Easy |
