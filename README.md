@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1726,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2103-rings-and-rods](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -2881,6 +2883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
