@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1287-distance-between-bus-stops](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1287-distance-between-bus-stops) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -2284,6 +2286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -2859,6 +2862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -3007,6 +3011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -3592,6 +3597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
