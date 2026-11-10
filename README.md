@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2058-concatenation-of-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1734,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -2893,6 +2896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
