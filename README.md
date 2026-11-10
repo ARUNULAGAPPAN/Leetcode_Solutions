@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3690-split-and-merge-array-transformation) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3697-compute-decimal-representation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -2625,6 +2626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
