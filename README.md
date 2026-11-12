@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1018-largest-perimeter-triangle](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -2379,6 +2380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-max-consecutive-ones-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
