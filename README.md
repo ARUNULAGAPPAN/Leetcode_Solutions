@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2315-count-asterisks](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1757,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -2918,6 +2920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
