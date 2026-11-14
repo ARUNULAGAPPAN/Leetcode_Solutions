@@ -932,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -3159,6 +3160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -3243,6 +3245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
