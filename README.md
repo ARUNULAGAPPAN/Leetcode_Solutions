@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1446-consecutive-characters/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1496-path-crossing](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1496-path-crossing/) | Easy |
@@ -1376,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -3117,6 +3119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
