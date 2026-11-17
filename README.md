@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -2394,6 +2395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2752,6 +2754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1306-minimum-absolute-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
