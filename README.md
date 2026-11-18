@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2429-design-a-food-rating-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2451-odd-string-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2451-odd-string-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -1775,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-number-of-arithmetic-triplets](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2451-odd-string-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2479-meeting-rooms-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
