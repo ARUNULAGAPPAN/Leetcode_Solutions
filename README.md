@@ -1077,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -1878,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3877-two-letter-card-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3877-two-letter-card-game) |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -2464,6 +2466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3791-fruits-into-baskets-iii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -3150,6 +3153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3625,6 +3629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3749,4 +3754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
