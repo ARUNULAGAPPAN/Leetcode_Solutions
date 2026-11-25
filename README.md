@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1651-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
