@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -2138,6 +2139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
