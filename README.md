@@ -1082,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [4003-longest-fibonacci-subarray](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4047-longest-balanced-subarray-ii](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -2683,6 +2685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ARUNULAGAPPAN/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
